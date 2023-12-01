@@ -8,7 +8,7 @@
 
 ## 🚀 Мои основные языки
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-lebedev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-lebedev&layout=compact&theme=cobal)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ⏱️ Общее время
 
