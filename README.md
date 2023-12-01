@@ -1,16 +1,20 @@
-### Hi there 👋
+# Привет, меня зовут Василий Лебедев 👋
 
-<!--
-**v-lebedev/v-lebedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я разработчик, специализирующийся на следующих языках: **1С, C++, HTML, CSS, PHP, JS**.
 
-Here are some ideas to get you started:
+## 📈 Моя статистика на GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+!Статистика GitHub
+
+## ⏱️ Wakatime статистика
+
+!Статистика Wakatime
+
+## 🚀 Мои основные языки
+
+!Top Langs
+
+## 📫 Как со мной связаться
+
+- Email: vasyl.lebedev@yandex.ru
+- Telegram: https://t.me/helixmaster
