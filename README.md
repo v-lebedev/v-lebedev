@@ -9,7 +9,7 @@
 
 ## ⏱️ Общее время
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=v-lebedev&theme=midnight-purple&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=v-lebedev&theme=midnight-purple&repo=1C-educational-projects)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Как со мной связаться
 
