@@ -6,13 +6,13 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=v-lebedev&theme=cobalt&show_icons=true)
 
-## ⏱️ Wakatime статистика
-
-!Статистика Wakatime
-
 ## 🚀 Мои основные языки
 
-!Top Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## ⏱️ Общее время
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Как со мной связаться
 
