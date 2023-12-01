@@ -4,7 +4,7 @@
 
 ## 📈 Моя статистика на GitHub
 
-!Статистика GitHub
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=v-lebedev&theme=cobalt&show_icons=true)
 
 ## ⏱️ Wakatime статистика
 
